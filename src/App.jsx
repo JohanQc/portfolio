@@ -9,6 +9,12 @@ function App() {
   return (
     <>
      <div className='bg-red-400'>asdasd</div>
+     <div className='bg-red-400'>asdasd</div>
+     <div className='bg-red-400'>asdasd</div>
+     <div className='bg-red-400'>asdasd</div>
+     <div className='bg-red-400'>asdasd</div>
+     <div className='bg-red-400'>asdasd</div>
+     <div className='bg-red-400'>asdasd</div>
     </>
   )
 }
